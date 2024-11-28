@@ -58,7 +58,6 @@ sysinfo.txt
 # Void Projrect Ignore Directory
 /WorkSpace/
 /Assets/Chinese/
-/Assets/_WorkSpace/
 
 # Builds
 *.apk
